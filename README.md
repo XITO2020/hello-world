@@ -1,2 +1,3 @@
 # hello-world
 this is my key to go through the door of the git world, as I have a magical plan to save the world, I come here to become the next wizzard
+I ve tried to do my own website with bootstrap, adding some php to make it dnamic, but for the moment, it s not finished yet, there s many bugs as regard the CSS: the website has not a perfect responsive behaviour. So I m here to stop making beginners bullshit as I m already something like 83. I think it's time...
